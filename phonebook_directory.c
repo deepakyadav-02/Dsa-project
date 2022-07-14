@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
+#include <conio.h>
 #include <ctype.h>
 void add_contact(FILE *fp);//declaring functions prototype 
 void update(FILE *fp);
